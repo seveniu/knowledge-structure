@@ -2,7 +2,7 @@
 
 * Java 语言基础
   * 容器
-    * 概述
+    * [概述](/blob/master/java-language/container/summary.md)
     * Collection
     * Map
 * Jvm
