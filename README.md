@@ -15,7 +15,7 @@
   * RocketMQ
 * 数据存储
   * MySQL
-  * Redis
+    * Redis
   * ElasticSearch
 * 基础知识
   * 计算机网络
